@@ -4,7 +4,7 @@
 <!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
 <h1><👨‍💻 About Me></h1>
     I am Aditya Walture 
-   <br> 
+   <br> Third year undergraduate student in computer science and a passionate developer. Looking out for opportunities for working out with people and have great learning experiences. Love to learn new technologies.
     <br/>
 <!--      Links      -->
 
