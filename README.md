@@ -49,8 +49,4 @@
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center" width="50%">
 </p> -->
 <br>
- <p align="center">
-<a href="https://github.com/adityawalture/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=adityawalture&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
+
