@@ -4,10 +4,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityawalture&theme=darkhub" alt="adityawalture" /></a> </p>
 
-- 🔭 I’m currently working on **Corporate Attendance App**
+- 🔭 I’m currently working in **Philips as ML intern**
 - 👯 I’m looking to collaborate on **Flutter & ML projects**
-- 🤝 I’m looking for help with **State management**
-- 🌱 I’m currently learning **Flutter BLOC**
+- 🌱 I’m currently learning **Flutter, NLP, automation**
 
 - 📫 How to reach me **adityawalture9298@gmail.com**
 - 👨‍💻 All of my projects are available at **https://aditya-walture.vercel.app/**
