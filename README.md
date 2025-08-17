@@ -1,4 +1,4 @@
-![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
+![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Walture</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityawalture&label=Profile%20views&color=0e75b6&style=flat" alt="adityawalture" /> </p>
 
