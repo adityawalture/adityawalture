@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Flutter, NLP, automation**
 
 - 📫 How to reach me **adityawalture9298@gmail.com**
-- 👨‍💻 All of my projects are available at **https://aditya-walture.vercel.app/**
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1cRh2t-B9Os7fF1pxWW5XI8XdKBbuCyeJ/view?usp=sharing](https://drive.google.com/file/d/1TnFPvez5XZVQh6bxQK3txP8H2MHPRZeH/view?usp=sharing)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
